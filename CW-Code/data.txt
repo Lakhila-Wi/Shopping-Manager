@@ -1,0 +1,32 @@
+Clothing Item
+Product ID - i101
+Product Name - polo 1
+Available Product Count - 2
+Product Price - 1000
+Product Colour - red
+Product Size - l
+
+Clothing Item
+Product ID - i102
+Product Name - polo 2
+Available Product Count - 3
+Product Price - 30000
+Product Colour - red
+Product Size - l
+
+Clothing Item
+Product ID - i103
+Product Name - polo 3
+Available Product Count - 5
+Product Price - 4000
+Product Colour - black
+Product Size - l
+
+Electronic Item
+Product ID - i105
+Product Name - phone 2
+Available Product Count - 3
+Product Price - 40000
+Product Brand - samsung
+Product Warranty Period - 3
+

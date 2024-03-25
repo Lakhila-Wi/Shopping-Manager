@@ -1,0 +1,8 @@
+Clothing Item
+Product ID - i1o1
+Product Name - polo
+Available Product Count - 2
+Product Price - 1000
+Product Colour - red
+Product Size - xl
+
